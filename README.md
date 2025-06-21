@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering + Robotics + Math (minor) @ UMich<br>Exploring the intersection of software, hardware, and intelligent systems<br>Working full-stack apps, embedded systems projects and other software + hardware projects<br><br>Current/Recent Projects:<br>Building a movie based app with live, updating recommendations based on searches<br>Training YOLOv7 computer vision module on custom data to export for automatic annotation on CVAT<br>Redesigning AJ-SR04M/JSN-SR04T ultrasonic module to interface multiple modules with separate, single microcontroller
+Computer Engineering + Robotics + Math (minor) @ UMich<br>Exploring the intersection of software, hardware, and intelligent systems<br>Working full-stack apps, embedded systems projects and other software + hardware projects<br
 
 
 # 💻 Tech Stack:
