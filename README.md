@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=rchops&color=blueviolet)
 
 # 💫 About Me:
 Computer Engineering + Robotics + Math (minor) @ UMich 〽️
