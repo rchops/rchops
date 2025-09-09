@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=rchops&color=blueviolet)
 
 # 💫 About Me:
-Computer Engineering + Robotics + Math (minor) @ UMich 〽️
+Computer Engineering + Math (minor) @ UMich 〽️
 
 
 # 💻 Tech Stack:
